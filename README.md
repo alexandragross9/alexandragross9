@@ -30,12 +30,12 @@ Data Source: https://www.coursera.org/, https://www.kaggle.com/datasets/mfaisalq
 
 ### Table of Contents
 <hr>
-Step 1.) Summary and Data Dictionary <br>
-Step 2.) Install + Import Necessary Libraries <br>
-Step 3.) Data Cleaning <br>
-Step 4.) Exploratory Data Analysis + Visualization <br>
-Step 5.) Model Construction <br>
-Step 6.) Results <br>
+Introduction: Summary and Data Dictionary <br>
+Step 2: Install + Import Necessary Libraries <br>
+Step 3: Data Cleaning <br>
+Step 4: Exploratory Data Analysis + Visualization <br>
+Step 5: Model Construction <br>
+Step 6: Results <br>
 
 <br>
 <br>
