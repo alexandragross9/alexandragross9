@@ -30,7 +30,8 @@ Data Source: https://www.coursera.org/, https://www.kaggle.com/datasets/mfaisalq
 
 ### Table of Contents
 <hr>
-**Introduction:** Summary and Data Dictionary <br>
+Introduction: Summary and Data Dictionary <br>
+<br>
 Step 1: Install + Import Necessary Libraries <br>
 Step 2: Data Cleaning <br>
 Step 3: Exploratory Data Analysis + Visualization <br>
